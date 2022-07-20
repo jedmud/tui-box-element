@@ -1,6 +1,6 @@
 {
   "name": "@jedmud/tui-box-element",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Jedmud TUI box element module.",
   "main": "src/index.js",
   "scripts": {
